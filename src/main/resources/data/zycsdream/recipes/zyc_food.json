@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "AA",
+    "  "
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "item": "zycsdream:smelly_essence"
+    }
+  },
+
+  "result":
+  {
+    "item": "zycsdream:zyc_food",
+    "count": 2
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "AA ",
+    " A ",
+    "   "
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "item": "zycsdream:zyc_food"
+    }
+  },
+
+  "result":
+  {
+    "item": "zycsdream:dongjun_ball_item",
+    "count": 1
+  }
+}

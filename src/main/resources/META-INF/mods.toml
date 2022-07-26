@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU GPLv3"
+#issueTrackerURL="https://github.com"
+[[mods]]
+modId="zycsdream"
+version="0.1.3b1-hotfix"
+displayName="ZYC's Dream"
+displayURL="https://scpc.a00.ltd/"
+logoFile="zyc.png"
+credits="SCPC Studio"
+authors="众里寻他千回首"
+description='''
+张煜晨的天堂
+
+此版本为测试版0.1.3b1-hotfix
+已修复掉落物问题
+
+本模组使用的肖像已经过本人同意。
+'''
+[[dependencies.zycsdream]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.zycsdream]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

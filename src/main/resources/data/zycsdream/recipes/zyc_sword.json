@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " A ",
+    " A ",
+    " B "
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "item": "zycsdream:zyc_block"
+    },
+
+    "B":
+    {
+      "item": "minecraft:stick"
+
+    }
+  },
+
+  "result":
+  {
+    "item": "zycsdream:zyc_sword",
+    "count": 1
+  }
+}

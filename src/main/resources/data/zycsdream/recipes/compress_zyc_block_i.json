@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "zycsdream:zyc_block"
+    }
+  },
+  "result": {
+    "item": "zycsdream:compress_zyc_block_i",
+    "count": 1
+  }
+}

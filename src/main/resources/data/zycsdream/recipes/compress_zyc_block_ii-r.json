@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "zycsdream:compress_zyc_block_iii", "data": 0}
+  ],
+
+  "result": {
+    "item": "zycsdream:compress_zyc_block_ii",
+    "count": 9
+  }
+}

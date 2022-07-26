@@ -1,0 +1,44 @@
+{
+  "item.zycsdream.zyc_food": "Zyc（可食用）",
+  "item.zycsdream.feng_food": "冯的哪吒（可食用）",
+  "item.zycsdream.dongjun_ball_item": "董俊（扔着玩）",
+  "item.zycsdream.zyc_pickaxe": "Yc之搞♂",
+  "item.zycsdream.zyc_sword": "Yc之舰Jian",
+  "item.zycsdream.smelly_essence": "臭之精华",
+
+  "itemGroup.zyc_tab": "Zycの恋 - 物品栏",
+
+  "block.zycsdream.ekac": "糕蛋",
+  "block.zycsdream.zyc_block": "Zyc块（装饰用）",
+  "block.zycsdream.zyc_grass": "臭草花",
+  "block.zycsdream.compress_zyc_block_i": "压缩Zyc块",
+  "block.zycsdream.compress_zyc_block_ii": "二重压缩Zyc块",
+  "block.zycsdream.compress_zyc_block_iii": "三重压缩Zyc块",
+  "block.zycsdream.compress_zyc_block_iv": "四重压缩Zyc块",
+  "block.zycsdream.compress_zyc_block_v": "五重压缩Zyc块",
+  "block.zycsdream.compress_zyc_block_vi": "六重压缩Zyc块",
+  "block.zycsdream.compress_zyc_block_vii": "七重压缩Zyc块",
+  "block.zycsdream.compress_zyc_block_viii": "八重压缩Zyc块",
+
+  "tooltip.zycsdream.shift": "§7按住§r §eShift§r §7以浏览更多",
+  "tooltip.zycsdream.shift_tip": "§7按住§r §eShift§r §7以获取提示",
+  "tooltip.zycsdream.ekac": "§7上面三个小麦，下面三个牛奶，两边两个糖中间一个鸡蛋，这是什么？",
+  "tooltip.zycsdream.zyc_block": "§7“她”无比坚硬",
+  "tooltip.zycsdream.dongjun_ball": "§7以董俊之力砸死你",
+  "tooltip.zycsdream.dongjun_ball.attack": "§2命中随机99~50点伤害",
+  "tooltip.zycsdream.n": " ",
+  "tooltip.zycsdream.throw": "§7投掷时：",
+  "tooltip.zycsdream.smelly_essence": "§7从主世界的“臭草花”掉落而来",
+  "tooltip.zycsdream.compress_zyc_block_i": "§781个Zyc",
+  "tooltip.zycsdream.compress_zyc_block_ii": "§7729个Zyc",
+  "tooltip.zycsdream.compress_zyc_block_iii": "§76,561个Zyc",
+  "tooltip.zycsdream.compress_zyc_block_iv": "§759,049个Zyc",
+  "tooltip.zycsdream.compress_zyc_block_v": "§7531,441个Zyc",
+  "tooltip.zycsdream.compress_zyc_block_vi": "§74,782,969个Zyc",
+  "tooltip.zycsdream.compress_zyc_block_vii": "§743,046,721个Zyc",
+  "tooltip.zycsdream.compress_zyc_block_viii": "§7387,420,489个Zyc",
+
+  "text.zycsdream.join.msg": "§6[Zyc's Dream]§r 感谢您游玩Zycの恋模组，祝您游戏愉快！",
+
+  "gui.zycsdream.text": "§l来自Zyc的鄙视,警告你别想吃我！"
+}

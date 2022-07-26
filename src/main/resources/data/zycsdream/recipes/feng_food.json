@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "AA",
+    "  "
+  ],
+
+  "key":
+  {
+    "A":
+    {
+      "item": "zycsdream:zyc_food"
+    }
+  },
+
+  "result":
+  {
+    "item": "zycsdream:feng_food",
+    "count": 2
+  }
+}
