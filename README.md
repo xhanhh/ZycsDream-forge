@@ -5,3 +5,5 @@ This is a Forge mod of Minecraft
 
 All releases
 <a target="_blank" href=https://tlm.lanzouq.com/b00vvbqpa>https://tlm.lanzouq.com/b00vvbqpa</a>
+
+肖像权使用已获得ZYC的授权。
