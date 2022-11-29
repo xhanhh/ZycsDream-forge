@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="GNU GPLv3"
+license="CC BY-NC-SA 4.0"
 #issueTrackerURL="https://github.com"
 [[mods]]
 modId="zycsdream"
@@ -9,7 +9,7 @@ displayName="ZYC's Dream"
 displayURL="https://scpc.a00.ltd/"
 logoFile="zyc.png"
 credits="SCPC Studio"
-authors="众里寻他千回首"
+authors="xhanhh"
 description='''
 张煜晨的天堂
 
