@@ -33,8 +33,6 @@ public class ItemInit {
     public static final RegistryObject<Item> Zyc_grass = ITEMS.register("zyc_grass",
             () -> new BlockItem(BlockInit.ZycGrass.get(), new Item.Properties()));
 
-    public static final RegistryObject<Item> CompressZycBlock_i = ITEMS.register("compress_zyc_block_i",
-            () -> new BlockItem(BlockInit.CompressZycBlock_i.get(), new Item.Properties().group(ZycMod.itemGroup)));
     public static final RegistryObject<Item> CompressZycBlock_ii = ITEMS.register("compress_zyc_block_ii",
             () -> new BlockItem(BlockInit.CompressZycBlock_ii.get(), new Item.Properties().group(ZycMod.itemGroup)));
     public static final RegistryObject<Item> CompressZycBlock_iii = ITEMS.register("compress_zyc_block_iii",

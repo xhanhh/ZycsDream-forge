@@ -19,7 +19,6 @@ public class BlockInit {
     public static final RegistryObject<CakeBlock> ekac = BLOCKS.register("ekac", ekaCBlock::new);
 
     public static final RegistryObject<Block> ZycBlock = BLOCKS.register("zyc_block", ZycBlock::new);
-    public static final RegistryObject<Block> CompressZycBlock_i = BLOCKS.register("compress_zyc_block_i", CompressZycBlock_i::new);
     public static final RegistryObject<Block> CompressZycBlock_ii = BLOCKS.register("compress_zyc_block_ii", CompressZycBlock_ii::new);
     public static final RegistryObject<Block> CompressZycBlock_iii = BLOCKS.register("compress_zyc_block_iii", CompressZycBlock_iii::new);
     public static final RegistryObject<Block> CompressZycBlock_iv = BLOCKS.register("compress_zyc_block_iv", CompressZycBlock_iv::new);

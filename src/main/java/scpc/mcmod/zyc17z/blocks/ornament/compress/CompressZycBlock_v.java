@@ -17,7 +17,7 @@ public class CompressZycBlock_v extends Block {
 
     public CompressZycBlock_v() {
 
-        super(Properties.create(Material.ROCK).hardnessAndResistance(42.5F));
+        super(Properties.create(Material.ROCK).hardnessAndResistance(42.5F).harvestLevel(4));
 
     }
 

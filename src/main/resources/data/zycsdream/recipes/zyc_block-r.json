@@ -1,7 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {"item": "zycsdream:compress_zyc_block_i", "data": 0}
+    {"item": "zycsdream:compress_zyc_block_ii", "data": 0}
   ],
 
   "result": {

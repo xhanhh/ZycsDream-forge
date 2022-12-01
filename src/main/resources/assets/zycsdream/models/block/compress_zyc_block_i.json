@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "zycsdream:block/compress_zyc_block_i"
-  }
-}
