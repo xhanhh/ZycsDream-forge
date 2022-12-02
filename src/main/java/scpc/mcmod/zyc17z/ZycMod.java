@@ -16,6 +16,7 @@ import org.apache.logging.log4j.Logger;
 import scpc.mcmod.zyc17z.blocks.BlockInit;
 import scpc.mcmod.zyc17z.entity.EntityInit;
 import scpc.mcmod.zyc17z.items.ItemInit;
+import scpc.mcmod.zyc17z.paintings.PaintingInit;
 
 @Mod(ZycMod.MOD_ID)
 public class ZycMod {
@@ -30,6 +31,7 @@ public class ZycMod {
         ItemInit.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
         BlockInit.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
         EntityInit.EntityRegister.register(FMLJavaModLoadingContext.get().getModEventBus());
+        PaintingInit.PAINTING_TYPE.register(FMLJavaModLoadingContext.get().getModEventBus());
 
         ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, ZycConfig.COMMON_CONFIG);
 
