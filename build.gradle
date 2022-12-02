@@ -14,7 +14,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '0.1.3b1-hotfix'
+version = '0.1.3beta2'
 group = 'scpc.mcmod.zyc17z' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'zycsdream'
 

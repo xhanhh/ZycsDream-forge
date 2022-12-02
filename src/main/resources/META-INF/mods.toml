@@ -1,20 +1,20 @@
 modLoader="javafml"
 loaderVersion="[36,)"
 license="CC BY-NC-SA 4.0"
-#issueTrackerURL="https://github.com"
+issueTrackerURL="https://github.com/xhanhh/ZycsDream-forge/issues"
 [[mods]]
 modId="zycsdream"
-version="0.1.3b1-hotfix"
+version="0.1.3beta2"
 displayName="ZYC's Dream"
-displayURL="https://scpc.a00.ltd/"
+displayURL="https://github.com/xhanhh/ZycsDream-forge"
 logoFile="zyc.png"
 credits="SCPC Studio"
 authors="xhanhh"
 description='''
 张煜晨的天堂
 
-此版本为测试版0.1.3b1-hotfix
-已修复掉落物问题
+此版本为测试版0.1.3beta2
+如有任何问题请提交Issue。
 
 本模组使用的肖像已经过本人同意。
 '''
