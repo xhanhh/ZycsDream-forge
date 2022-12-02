@@ -7,7 +7,7 @@ import scpc.mcmod.zyc17z.ZycMod;
 public class OpenGui {
 
     public OpenGui() {
-        Minecraft.getInstance().displayGuiScreen(new ZycFoodGui(new TranslationTextComponent(ZycMod.MOD_ID + ".test")));
+        Minecraft.getInstance().displayGuiScreen(new ZycFoodGui(new TranslationTextComponent(ZycMod.MOD_ID + ".ycgui")));
     }
 
 }

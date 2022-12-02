@@ -1,7 +1,6 @@
 package scpc.mcmod.zyc17z.blocks;
 
 import net.minecraft.block.*;
-import net.minecraft.potion.Effects;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.DeferredRegister;
@@ -27,8 +26,6 @@ public class BlockInit {
     public static final RegistryObject<Block> CompressZycBlock_vii = BLOCKS.register("compress_zyc_block_vii", CompressZycBlock_vii::new);
     public static final RegistryObject<Block> CompressZycBlock_viii = BLOCKS.register("compress_zyc_block_viii", CompressZycBlock_viii::new);
 
-
-    public static final RegistryObject<Block> ZycGrass = BLOCKS.register("zyc_grass",
-            () -> new FlowerBlock(Effects.HASTE, 5, AbstractBlock.Properties.from(Blocks.DANDELION)));
+    public static final RegistryObject<Block> ZycGrass = BLOCKS.register("zyc_grass", ZycGrass::new);
 
 }

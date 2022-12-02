@@ -27,7 +27,7 @@ public class JEIPlugin implements IModPlugin {
     public void onRuntimeAvailable(@Nonnull IJeiRuntime jeiRuntime) {
 
         IIngredientManager iIngredientManager = jeiRuntime.getIngredientManager();
-        iIngredientManager.removeIngredientsAtRuntime(VanillaTypes.ITEM, Collections.singleton(new ItemStack(ItemInit.Zyc_grass.get())));
+        iIngredientManager.removeIngredientsAtRuntime(VanillaTypes.ITEM, Collections.singleton(new ItemStack(ItemInit.ZycGrass.get())));
 
     }
 
