@@ -104,7 +104,7 @@ minecraft {
             args '--mod', 'zycsdream', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
-                examplemod {
+                zycsdream {
                     source sourceSets.main
                 }
             }
