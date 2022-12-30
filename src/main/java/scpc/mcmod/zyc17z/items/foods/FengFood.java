@@ -1,4 +1,4 @@
-package scpc.mcmod.zyc17z.items.food;
+package scpc.mcmod.zyc17z.items.foods;
 
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;

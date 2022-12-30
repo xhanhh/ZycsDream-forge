@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "zycsdream:zyc_grass_element", "data": 0}
+  ],
+
+  "result": {
+    "item": "zycsdream:smelly_essence",
+    "count": 2
+  }
+}

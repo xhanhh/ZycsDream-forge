@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "zycsdream:item/zyc_grass_element"
+  }
+}

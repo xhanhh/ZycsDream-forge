@@ -5,6 +5,7 @@
   "item.zycsdream.zyc_pickaxe": "Yc之搞♂",
   "item.zycsdream.zyc_sword": "Yc之舰Jian",
   "item.zycsdream.smelly_essence": "臭之精华",
+  "item.zycsdream.zyc_grass_element": "煜之晨本草元素",
 
   "itemGroup.zyc_tab": "Zycの恋 - 物品栏",
 
@@ -27,7 +28,7 @@
   "tooltip.zycsdream.dongjun_ball.attack": "§2命中随机99~50点伤害",
   "tooltip.zycsdream.n": " ",
   "tooltip.zycsdream.throw": "§7投掷时：",
-  "tooltip.zycsdream.smelly_essence": "§7从主世界生成的“臭草花”掉落而来",
+  "tooltip.zycsdream.smelly_essence": "§7§7可用于合成“Zyc（可食用）”",
   "tooltip.zycsdream.compress_zyc_block_ii": "§781个Zyc",
   "tooltip.zycsdream.compress_zyc_block_iii": "§7729个Zyc",
   "tooltip.zycsdream.compress_zyc_block_iv": "§76,561个Zyc",
@@ -35,6 +36,7 @@
   "tooltip.zycsdream.compress_zyc_block_vi": "§7531,441个Zyc",
   "tooltip.zycsdream.compress_zyc_block_vii": "§74,782,969个Zyc",
   "tooltip.zycsdream.compress_zyc_block_viii": "§743,046,721个Zyc",
+  "tooltip.zycsdream.grass_element": "§7在主世界的“臭草花”掉落而来",
 
   "text.zycsdream.join.msg": "§6[Zyc's Dream]§r 感谢您游玩Zycの恋模组，祝您游戏愉快！",
 

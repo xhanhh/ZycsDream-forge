@@ -7,8 +7,8 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import scpc.mcmod.zyc17z.ZycMod;
 import scpc.mcmod.zyc17z.blocks.BlockInit;
-import scpc.mcmod.zyc17z.items.food.FengFood;
-import scpc.mcmod.zyc17z.items.food.ZycFood;
+import scpc.mcmod.zyc17z.items.foods.FengFood;
+import scpc.mcmod.zyc17z.items.foods.ZycFood;
 import scpc.mcmod.zyc17z.items.tools.ZycPickaxe;
 import scpc.mcmod.zyc17z.items.tools.ZycSword;
 
@@ -20,6 +20,7 @@ public class ItemInit {
     public static final RegistryObject<Item> feng_food = ITEMS.register("feng_food", FengFood::new);
 
     public static final RegistryObject<Item> Smelly_essence = ITEMS.register("smelly_essence", SmellyEssence::new);
+    public static final RegistryObject<Item> Zyc_grass_element = ITEMS.register("zyc_grass_element", ZycGrassElement::new);
 
     public static final RegistryObject<Item> dongjun_ball_item = ITEMS.register("dongjun_ball_item", DongJunBallItem::new);
 
