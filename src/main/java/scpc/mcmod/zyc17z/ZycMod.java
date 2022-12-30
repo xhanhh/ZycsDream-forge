@@ -42,7 +42,6 @@ public class ZycMod {
     }
 
     public static ResourceLocation rl(String path) {
-        LOGGER.debug("Creating Zyc'sDream Mod ResourceLocation Path.");
         return new ResourceLocation(MOD_ID, path);
     }
 

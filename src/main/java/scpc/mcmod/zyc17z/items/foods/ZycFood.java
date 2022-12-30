@@ -18,8 +18,6 @@ import java.util.Random;
 
 public class ZycFood extends Item {
 
-    private Logger logger = LogManager.getLogger();
-
     private static final Food food = (new Food.Builder())
             .saturation(1)
             .hunger(2)
@@ -41,7 +39,6 @@ public class ZycFood extends Item {
 
             if (worldIn.isRemote) {
                 DistExecutor.safeCallWhenOn(Dist.CLIENT, () -> OpenGui::new);
-                logger.debug("Open ZycFoodGui success.");
             }
 
         }
